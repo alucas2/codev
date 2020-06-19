@@ -1,1 +1,2 @@
-# codev
+# CODEV : Post-traitement de données altimétriques par un réseau de neurones
+Le fichier codev_nn.ipynb contient l'implémentation et les tests d'une méthode de post-traitement de cartes topographiques de la surface de l'océan basée sur un réseau de neurones à convolution. Ce post-traitement s’inscrit dans la dernière étape de reconstruction d’une carte à partir de données incomplètes, durant laquelle il s’agit de corriger des défauts d’interpolation. Dans la partie "Deuxième méthode : Réseau de neurones convolutif" sont implémentées les fonctions d'entrainement et de prédiction qu'il sera possible d'utiliser dans un autre projet.
